@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2385" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/add_shape.xml" value="0.2985" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/button_shape.xml" value="0.2375" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/button_shape1.xml" value="0.2985" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/button_shape2.xml" value="0.2985" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/delete_icon.xml" value="0.2985" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/edittext_shape.xml" value="0.2385" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.2985" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.252" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/ic_baseline_notifications_off_24.xml" value="0.2985" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2385" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/list_border.xml" value="0.2985" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/drawable/roundcorner.xml" value="0.2385" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_add_reminder.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_create_note.xml" value="0.24635416666666668" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_create_schedule.xml" value="0.5" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_delete_note.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_edit_note.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_home.xml" value="0.24427083333333333" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_note_details.xml" value="0.24954710144927536" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_record.xml" value="0.246875" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_schedule.xml" value="0.246875" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_sign.xml" value="0.24635416666666668" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/activity_signin.xml" value="0.33" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/alarm_items.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/content_record.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/date_time_picker.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/event_list_item.xml" value="0.246875" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/event_list_iterm.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/layout/notes_layout.xml" value="0.5" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Just ME/capstone_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.252" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable-v24/ic_assignment.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable-v24/ic_assignment2.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable-v24/ic_event.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable-v24/ic_event2.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable-v24/ic_timer.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable-v24/ic_timer2.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable-v24/white_recycler_view_background.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/button_shape.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/button_shape2.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/delete_icon.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/edittext_shape.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/ic__done_outline.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/ic_check.xml" value="0.2435" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/ic_check2.xml" value="0.2435" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/ic_done.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/ic_done2.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/ic_done_outline.xml" value="0.2435" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/ic_person.xml" value="0.2435" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/drawable/list_border.xml" value="0.2525" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/actionbar.xml" value="0.358695652173913" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_alarm.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_create_note.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_create_schedule.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_done.xml" value="0.33" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_home.xml" value="0.5" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_note_details.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_record.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_schedule.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/activity_sign.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/custom_dialog.xml" value="0.3" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/daily_weather_item.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/dialog_completed_theme.xml" value="0.24583333333333332" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/event_list_item.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/fragment_calendar_view.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/fragment_create_task.xml" value="0.2328125" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/item_done.xml" value="0.5" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/item_task_adapter.xml" value="0.24954710144927536" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/notes_layout.xml" value="0.67" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/layout/row_item.xml" value="0.5" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/menu/menu.xml" value="0.246875" />
+        <entry key="..\:/zcapstone_app/app/src/main/res/menu/menudo.xml" value="0.246875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

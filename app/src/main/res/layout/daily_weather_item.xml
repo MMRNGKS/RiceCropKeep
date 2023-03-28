@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="false"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/lbl_date"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/iv_status_forecast"
+        android:layout_alignEnd="@id/iv_status_forecast"
+        android:textAlignment="center"
+        android:textColor="#36502C"/>
+
+    <TextView
+        android:id="@+id/lbl_time"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/iv_status_forecast"
+        android:layout_alignEnd="@id/iv_status_forecast"
+        android:layout_below="@id/lbl_date"
+        android:textAlignment="center"
+        android:textColor="#36502C"/>
+
+    <ImageView
+        android:id="@+id/iv_status_forecast"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/lbl_time"
+        android:contentDescription="@string/image_status"/>
+
+    <TextView
+        android:id="@+id/lbl_temperature_forecast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/iv_status_forecast"
+        android:layout_alignEnd="@+id/iv_status_forecast"
+        android:layout_below="@id/iv_status_forecast"
+        android:textColor="#36502C"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/lbl_main_weather_forecast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/iv_status_forecast"
+        android:layout_alignEnd="@id/iv_status_forecast"
+        android:layout_below="@id/lbl_temperature_forecast"
+        android:textColor="#36502C"
+        android:textAlignment="center"/>
+
+</RelativeLayout>

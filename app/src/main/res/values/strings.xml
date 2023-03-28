@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Rice Crop Keep</string>
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+    <string name="listEmptyText">
+    <![CDATA[
+<p><b>What do you want to do today?</b><br> You can create new ToDo <br>using  + button</p>
+]]>
+    </string>
+
+    <string name="city">City</string>
+    <string name="degree" formatted="false">%1$s&#176;</string>
+    <string name="no_internet">Please turn on Wifi or Mobile Data</string>
+    <string name="image_status">Status of current weather</string>
+    <string name="aqi_label">AQI: %1$s</string>
+
+</resources>

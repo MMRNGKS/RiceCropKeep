@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "667141655270",
+    "project_id": "rice-crop-keep",
+    "storage_bucket": "rice-crop-keep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667141655270:android:cddef40e851ed1a02bc927",
+        "android_client_info": {
+          "package_name": "com.example.ricecropkeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667141655270-p9sae3hc7tafd96nv35lij2ap9nbi1qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADoazFCOAdrItP0EHskN_I-EFEL-oRVc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667141655270-p9sae3hc7tafd96nv35lij2ap9nbi1qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667141655270:android:e6530e7f1868296e2bc927",
+        "android_client_info": {
+          "package_name": "com.example.ricecropkeeptwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667141655270-p9sae3hc7tafd96nv35lij2ap9nbi1qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADoazFCOAdrItP0EHskN_I-EFEL-oRVc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667141655270-p9sae3hc7tafd96nv35lij2ap9nbi1qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
